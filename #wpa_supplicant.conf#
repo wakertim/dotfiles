@@ -1,0 +1,26 @@
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=wheel
+
+# network={
+# 	ssid="OWNIT_24GHz_BA2535"
+# 	#psk="FADPA7JXHW"
+# 	psk=8ccd0fc73db7a4da848bb696c3848a46e38511a13b551726ce2da3c8b36114b5
+network={
+ 	ssid="Waker_24G"
+ 	psk="S10eringa11!"
+
+priority=1
+}
+#network={
+#	ssid="OWNIT_24GHz_BA2535"
+#	psk="FADPA7JXHW"
+#	priority=1
+#}
+#network={
+	#ssid="OWNIT_5GHz_BA2535"
+	#psk="FADPA7JXHW"
+	#priority=3
+#}
+
+
+
+
